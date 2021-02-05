@@ -1,0 +1,4 @@
+include ':SimpleIntent'
+include ':Activity101'
+include ':app'
+rootProject.name = "MyFirstApp"

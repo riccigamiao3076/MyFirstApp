@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="textView">Welcome to my Android App!</string>
+</resources>
